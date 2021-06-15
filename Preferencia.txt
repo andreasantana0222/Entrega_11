@@ -1,0 +1,2 @@
+Me resultó más fácil de usar EJS porque me permitió integrar más rápido bootstrap.
+Con PUG se me complicó al tener tags dentro de otros tags porque no tomaba como yo quería el hecho del identado.
